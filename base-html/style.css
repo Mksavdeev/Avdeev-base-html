@@ -1,0 +1,30 @@
+.Color {
+    background-color: cornflowerblue;
+}
+.Textcolor {
+    color: darkorchid;
+}
+.first {
+    color: chartreuse;
+}
+.second {
+    background-color: cyan;
+}
+.third {
+    color: lightskyblue;
+}
+.one {
+    height: 180px;
+    width: 900px;
+    background-color: aliceblue;
+}
+.two {
+    height: 180px;
+    width: 900px;
+    background-color: rgb(4, 0, 255);
+}
+.tree {
+    height: 180px;
+    width: 900px;
+    background-color: rgb(255, 0, 0);
+}
