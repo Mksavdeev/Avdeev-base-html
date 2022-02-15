@@ -12,6 +12,7 @@
 }
 .third {
     color: lightskyblue;
+<<<<<<< HEAD
 }
 .one {
     height: 180px;
@@ -27,4 +28,6 @@
     height: 180px;
     width: 900px;
     background-color: rgb(255, 0, 0);
+=======
+>>>>>>> f3e7defaf5599e1353810dcb22da58ef8390873e
 }
